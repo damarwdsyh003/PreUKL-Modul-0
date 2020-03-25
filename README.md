@@ -17,7 +17,5 @@
 ![Alt Text](https://github.com/damarwdsyh003/PreUKL-Modul-0/blob/master/9.PNG)
 # Latihan 10
 ![Alt Text](https://github.com/damarwdsyh003/PreUKL-Modul-0/blob/master/10.1.PNG)
-[br]
 ![Alt Text](https://github.com/damarwdsyh003/PreUKL-Modul-0/blob/master/10.2.PNG)
-[br]
 ![Alt Text](https://github.com/damarwdsyh003/PreUKL-Modul-0/blob/master/10.3.PNG)
